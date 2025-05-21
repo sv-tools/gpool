@@ -1,7 +1,14 @@
 # gpool
-Generic wrapper for sync.Pool in Go
+
+Generic wrapper for sync.Pool in Go.
+
+The repository is archived because the feature is fully implemented and will be replaced by sync v2 package in the future.
 
 ## Usage
+
+```shell
+go get github.com/sv-tools/gpool
+```
 
 `int64` type
 ```go
